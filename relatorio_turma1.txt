@@ -1,0 +1,6 @@
+===== Relatorio da turma 1: Engenharia Informatica =====
+ Grupo 1
+  Aluno 101 - Joao Silva | Media: 16.75 | APROVADO
+  Aluno 102 - Maria Santos | Media: 18.00 | APROVADO
+ Grupo 2
+  Aluno 201 - Pedro Costa | Media: 9.00 | REPROVADO

@@ -1,0 +1,9 @@
+PROFESSOR;Ana Pereira;ana.pereira@uni.ao
+ANO;2025
+TURMA;1;Engenharia Informatica
+GRUPO;1
+ALUNO;101;Joao Silva
+NOTA;Matematica;15.50;0
+NOTA;Trabalho Pratico;18.00;1
+ALUNO;102;Maria Santos
+NOTA;Trabalho Pratico;18.00;1
